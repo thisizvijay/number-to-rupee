@@ -1,0 +1,25 @@
+{
+  "name": "number-to-rupee",
+  "version": "1.0.0",
+  "description": "A Javascript module for convert digits into words (Indian Currency)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay4495/number-to-rupee.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Words",
+    "Indian",
+    "Rupee"
+  ],
+  "author": "vijay4495",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijay4495/number-to-rupee/issues"
+  },
+  "homepage": "https://github.com/vijay4495/number-to-rupee#readme"
+}
